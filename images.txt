@@ -1,4 +1,6 @@
---platform=linux/arm64 gitlab/gitlab-ce:18.4.0-ce.0
+--platform=linux/arm64 blankhang/centos7:openjdk11
+
+#--platform=linux/arm64 gitlab/gitlab-ce:18.4.0-ce.0
 
 
 #ghcr.io/lukegus/termix:latest
