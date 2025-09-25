@@ -1,4 +1,6 @@
-ghcr.io/lukegus/termix:latest
+gitlab/gitlab-ce:12.5.4-ce.0
+
+#ghcr.io/lukegus/termix:latest
 
 #arm64v8/openjdk:11-jre-slim
 #moby/buildkit:buildx-stable-1
