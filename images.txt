@@ -1,4 +1,5 @@
---platform=linux/arm64 blankhang/centos7:openjdk11
+lc13579443/gopub:latest
+#--platform=linux/arm64 blankhang/centos7:openjdk11
 
 #--platform=linux/arm64 gitlab/gitlab-ce:18.4.0-ce.0
 
