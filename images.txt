@@ -1,4 +1,9 @@
-rmself/gohangout:v1.11.1
+volcanosh/vc-controller-manager:v1.12.0
+volcanosh/vc-scheduler:v1.12.0
+volcanosh/vc-webhook-manager:v1.12.0
+volcanosh/vc-agent:v1.12.0
+
+#rmself/gohangout:v1.11.1
 #wantcat/trendradar:latest
 #lc13579443/gopub:latest
 #--platform=linux/arm64 blankhang/centos7:openjdk11
