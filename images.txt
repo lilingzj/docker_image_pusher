@@ -1,7 +1,8 @@
-volcanosh/vc-controller-manager:v1.12.0-arm64
-volcanosh/vc-scheduler:v1.12.0-arm64
-volcanosh/vc-webhook-manager:v1.12.0-arm64
-volcanosh/vc-agent:v1.12.0-arm64
+timberio/vector:nightly-2025-12-04-debian
+#volcanosh/vc-controller-manager:v1.12.0-arm64
+#volcanosh/vc-scheduler:v1.12.0-arm64
+#volcanosh/vc-webhook-manager:v1.12.0-arm64
+#volcanosh/vc-agent:v1.12.0-arm64
 
 #rmself/gohangout:v1.11.1
 #wantcat/trendradar:latest
