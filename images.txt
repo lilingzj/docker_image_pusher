@@ -1,6 +1,8 @@
-docker.io/library/ubuntu:20.04
-docker.io/library/node:10
-docker.io/library/nginx:alpine
+dyclouds/opshub-web:latest
+dyclouds/opshub-api:latest
+#docker.io/library/ubuntu:20.04
+#docker.io/library/node:10
+#docker.io/library/nginx:alpine
 #gcpaas/dataroom:2.0.2
 #timberio/vector:nightly-2025-12-04-debian
 #volcanosh/vc-controller-manager:v1.12.0-arm64
