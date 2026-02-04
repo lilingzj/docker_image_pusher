@@ -1,5 +1,7 @@
-dyclouds/opshub-web:latest
-dyclouds/opshub-api:latest
+ljishen/kimchi:arm64v8
+kubevirt/kimchi:latest
+#dyclouds/opshub-web:latest
+#dyclouds/opshub-api:latest
 #docker.io/library/ubuntu:20.04
 #docker.io/library/node:10
 #docker.io/library/nginx:alpine
