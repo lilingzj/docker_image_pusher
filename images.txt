@@ -1,5 +1,6 @@
-authelia/authelia
-traefik:v2.9
+ghcr.io/ajnart/homarr:latest
+#authelia/authelia
+#traefik:v2.9
 #dyclouds/opshub-web:latest
 #dyclouds/opshub-api:latest
 #docker.io/library/ubuntu:20.04
