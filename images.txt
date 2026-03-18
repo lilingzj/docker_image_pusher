@@ -1,4 +1,4 @@
-dhi.io/loki:3.5
+grafana/loki:main-fb58ab8-amd64
 #ghcr.io/ajnart/homarr:latest
 #authelia/authelia
 #traefik:v2.9
