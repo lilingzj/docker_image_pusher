@@ -1,4 +1,4 @@
---platform=linux/amd64  grafana/grafana:main-ubuntu
+--platform=linux/amd64  grafana/alloy:latest
 #--platform=linux/amd64 grafana/loki:main-fb58ab8
 #ghcr.io/ajnart/homarr:latest
 #authelia/authelia
