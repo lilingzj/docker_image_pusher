@@ -1,4 +1,4 @@
-grafana/loki:main-fb58ab8-amd64
+--platform=linux/amd64 grafana/loki:main-fb58ab8
 #ghcr.io/ajnart/homarr:latest
 #authelia/authelia
 #traefik:v2.9
