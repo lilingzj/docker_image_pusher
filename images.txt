@@ -1,4 +1,5 @@
-ghcr.io/ajnart/homarr:latest
+dhi.io/loki:3.5
+#ghcr.io/ajnart/homarr:latest
 #authelia/authelia
 #traefik:v2.9
 #dyclouds/opshub-web:latest
